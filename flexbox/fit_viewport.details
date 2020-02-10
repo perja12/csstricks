@@ -1,0 +1,5 @@
+---
+ name: Flexbox demo
+ description: Flexbox layout that fits elements within the viewport.
+ authors:
+   - Per Thomas Jahr
